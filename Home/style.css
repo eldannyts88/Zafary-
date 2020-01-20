@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+  }
+  main{
+      display: block;
+  }
+  body{
+    margin: auto;
+    box-sizing: border-box;
+    display: grid;
+    width: 1356px;
+  }
+.p1 {
+     margin-top: 25px;
+     margin-left: 4;
+     padding-left: 450px;
+     padding-right: 450px;
+     color: #000000;box-sizing: border-box;
+     text-align: center;
+     font-size: 40px;
+     line-height: 56px;
+    
+
+}
+.imagen{
+    padding-left: 18%;
+    size: 20px;
+}
